@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025046859901",
+    "project_id": "kliniek-app",
+    "storage_bucket": "kliniek-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025046859901:android:4358f7d3f1af01f605e114",
+        "android_client_info": {
+          "package_name": "com.example.kliniek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYAHHiYC8Nc2jkkQXMid4AV49tynGGG6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
