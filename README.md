@@ -1,17 +1,26 @@
-# kliniek
+## Kliniek
+"Kliniek" is a doctor consultation application developed for people who have minor health issues through the mobile application to saves 
+time of going to the hospital and waiting in a long queue.
 
-A new Flutter project.
+## Features
+- Appointment System
+  - Booking doctor available time slot
+- Chat System
+	- Insert the image
 
-## Getting Started
+## Technology
+* Flutter
+* Firebase
 
-This project is a starting point for a Flutter application.
+## Installation
+The project is running with Flutter in Android Studio (IDE)
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repo
+```sh
+git clone https://github.com/s-pear/kliniek-2.git
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Open Android Studio, then import the project file "kliniek-2".
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Kliniek
+
+3. Make sure to install or update Dart SDK to the latest version before running the project. More information here <a href="https://dart.dev/get-dart" target="_blank">Dart SDK Installation</a>
